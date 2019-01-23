@@ -5,6 +5,7 @@ using Microsoft.AspNet.Identity;
 using Microsoft.AspNet.Identity.Owin;
 using Owin;
 using AUI.WebVodPlayer.Models;
+using DatabaseAccess;
 
 namespace AUI.WebVodPlayer.Account
 {
